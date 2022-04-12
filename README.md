@@ -1,4 +1,14 @@
-# Publish your Obsidian Notes
+## Hello World!
+
+This is a wiki / knowledge base for all things related to Research Data Management. 
+
+This is not a formal project, notes will likely be added and updated at random and will be minimally structured. It's essentially a collection of interesting links and knowledge items that can be revisited.
+
+Moreover, information might be specific to the institution I work in (Utrecht University, The Netherlands). 
+
+-----
+
+## Publish your Obsidian Notes
 
 (MkDocs template)
 
@@ -14,7 +24,7 @@ With this template, you get these **out-of-the-box**:
 - Toggle between light and dark mode
 
 
-## Quick start
+### Quick start
 
 1. Create a **new github repository using this template**. Click the green button at the top or use [this link](https://github.com/jobindj/obsidian-publish-mkdocs/generate). 
 
@@ -32,9 +42,9 @@ With this template, you get these **out-of-the-box**:
 
 **Not working for you?** Open an [issue](https://github.com/jobindj/obsidian-publish-mkdocs/issues/new/choose) and let me know what went wrong.
 
-## Configuring your website
+### Configuring your website
 
-### How do I arrange notes as sections and pages?
+#### How do I arrange notes as sections and pages?
 
 By default, the sections and pages will follow the folder structure within `/docs`. The folders and sub-folders will show up as sections. Try not to have white spaces in your folder and file names, as these will be converted to HTML links. The webpage heading will be the same as the first-level heading in the markdown note.
 
@@ -42,7 +52,7 @@ By default, the sections and pages will follow the folder structure within `/doc
     - For example, see the setup for [the Blue Book](https://lyz-code.github.io/blue-book/) at [github](https://github.com/lyz-code/blue-book/blob/master/mkdocs.yml). Managing each page using `nav` can become cumbersome as the number of notes increase though!
 - The Materials theme provides multiple options to arrange [sections](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections), use [navigation tabs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-tabs), and many other helpful [navigation setups](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/)
 
-## Alternatives
+### Alternatives
 
 - [kmaasrud/oboe](https://github.com/kmaasrud/oboe): tool to convert an Obsidian vault into a static directory of HTML files.
 - [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template): template for Obsidian/Foam using mkdocs/mkdocs-material/mkdocs-roamlinks-plugin

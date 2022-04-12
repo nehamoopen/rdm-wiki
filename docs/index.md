@@ -1,11 +1,9 @@
-# Obsidian Notes
-
-Publish your public notes with MkDocs
+# RDM Wiki
 
 ## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+This is a wiki / knowledge base for all things related to Research Data Management. 
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+This is not a formal project, notes will likely be added and updated at random and will be minimally structured. It's essentially a collection of interesting links and knowledge items that can be revisited.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Moreover, information might be specific to the institution I work in (Utrecht University, The Netherlands). 
