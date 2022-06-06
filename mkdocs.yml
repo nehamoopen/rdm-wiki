@@ -1,7 +1,14 @@
 site_name: Work Wiki
 
 theme:
+    
     name: 'material'
+    
+    features: 
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    
     palette:
 
     # Light mode
