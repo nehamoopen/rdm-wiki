@@ -23,9 +23,9 @@ theme:
         name: Switch to light mode
     
     features:
-    - navigation.tracking
-    - navigation.sections
-    - navigation.expand
+        - navigation.tracking
+        - navigation.sections
+        - navigation.expand
 
 # Extensions
 markdown_extensions:
