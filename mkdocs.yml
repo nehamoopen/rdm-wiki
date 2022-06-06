@@ -1,14 +1,7 @@
 site_name: Work Wiki
 
 theme:
-    
     name: 'material'
-    
-    features: 
-    - navigation.tracking
-    - navigation.sections
-    - navigation.expand
-    
     palette:
 
     # Light mode
@@ -28,6 +21,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    
+    features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
 
 # Extensions
 markdown_extensions:
