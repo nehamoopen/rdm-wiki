@@ -1,4 +1,4 @@
-# RDM Wiki
+# Home
 
 ## Hello World!
 
