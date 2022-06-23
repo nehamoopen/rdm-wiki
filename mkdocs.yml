@@ -1,14 +1,17 @@
-site_name: Work Wiki
+site_name: RDM Wiki
 
 theme:
-    name: 'material'
-    palette:
-
+  name: material
+  features:
+  - navigation.tracking
+  - navigation.top
+  
+  palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: amber
-      accent: blue
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,7 +20,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: amber
-      accent: blue
+      accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -41,4 +44,3 @@ markdown_extensions:
 plugins:
   - search
   - tags
-  - roamlinks 
